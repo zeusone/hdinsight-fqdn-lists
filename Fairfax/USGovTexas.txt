@@ -1,0 +1,11 @@
+https://hdirelay-usgsc-539ccdb9-0.servicebus.usgovcloudapi.net
+https://hdirelay-usgsc-539ccdb9-1.servicebus.usgovcloudapi.net
+https://hdinsight-oms.azureedge.net
+https://login.usgovcloudapi.net
+https://login.microsoftonline.us
+https://aadcdn.msftauth.net
+https://hdiconfigactions.blob.core.windows.net
+https://hdiconfigactions-secondary.blob.core.windows.net
+https://*-sb.servicebus.usgovcloudapi.net
+https://certauth.login.microsoftonline.us
+https://gcs.monitoring.core.usgovcloudapi.net
